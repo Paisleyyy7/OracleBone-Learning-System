@@ -1,205 +1,136 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee1ef8c7-5577-479a-bffc-22d9eff3de5d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Oracle_lxr/src/main/java/com/example/controller/OracleBoneController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle_lxr/src/main/java/com/example/controller/OracleBoneController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle_lxr/src/main/java/com/example/controller/PredictController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle_lxr/src/main/java/com/example/controller/PredictController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle_lxr/src/main/java/com/example/controller/WebController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle_lxr/src/main/java/com/example/controller/WebController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle_lxr/src/main/java/com/example/mapper/CharTableFormerMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle_lxr/src/main/java/com/example/mapper/CharTableFormerMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle_lxr/src/main/java/com/example/service/CharTableFormerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle_lxr/src/main/java/com/example/service/CharTableFormerService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle_lxr/src/main/java/com/example/utils/BigModelNew.java" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle_lxr/src/main/java/com/example/utils/BigModelNew.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle_lxr/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle_lxr/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle_lxr/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle_lxr/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/SpringbootApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/SpringbootApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/common/Constants.class" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/common/Constants.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/common/Result.class" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/common/Result.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/common/config/CorsConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/common/config/CorsConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/common/config/JwtInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/common/config/JwtInterceptor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/common/config/WebConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/common/config/WebConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/common/enums/ResultCodeEnum.class" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/common/enums/ResultCodeEnum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/common/enums/RoleEnum.class" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/common/enums/RoleEnum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/controller/ChatController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/controller/ChatController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/controller/FileController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/controller/FileController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/controller/OracleBoneController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/controller/OracleBoneController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/controller/PicHistoryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/controller/PicHistoryController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/controller/PredictController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/controller/PredictController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/controller/SelectionController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/controller/SelectionController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/controller/UserController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/controller/WebController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/controller/WebController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/entity/CharTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/entity/CharTable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/entity/ChatData.class" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/entity/ChatData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/entity/Message.class" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/entity/Message.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/entity/PicHistory.class" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/entity/PicHistory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/entity/Selection.class" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/entity/Selection.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/entity/Session.class" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/entity/Session.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/entity/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/entity/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/exception/CustomException.class" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/exception/CustomException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/exception/GlobalExceptionHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/exception/GlobalExceptionHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/mapper/CharTableFormerMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/mapper/CharTableFormerMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/mapper/ChartTableMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/mapper/ChartTableMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/mapper/MessageMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/mapper/MessageMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/mapper/PicHistoryMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/mapper/PicHistoryMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/mapper/SessionMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/mapper/SessionMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/mapper/UserMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/mapper/UserMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/service/CharTableFormerService.class" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/service/CharTableFormerService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/service/CharTableService.class" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/service/CharTableService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/service/ChatService.class" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/service/ChatService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/service/MessageService.class" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/service/MessageService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/service/PicHistoryService.class" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/service/PicHistoryService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/service/SelectionService.class" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/service/SelectionService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/service/SessionService.class" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/service/SessionService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/service/UserService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/utils/BigModelNew$Choices.class" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/utils/BigModelNew$Choices.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/utils/BigModelNew$Header.class" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/utils/BigModelNew$Header.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/utils/BigModelNew$JsonParse.class" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/utils/BigModelNew$JsonParse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/utils/BigModelNew$MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/utils/BigModelNew$MyThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/utils/BigModelNew$Payload.class" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/utils/BigModelNew$Payload.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/utils/BigModelNew$RoleContent.class" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/utils/BigModelNew$RoleContent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/utils/BigModelNew$Text.class" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/utils/BigModelNew$Text.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/utils/BigModelNew.class" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/utils/BigModelNew.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/utils/MailCodeCache.class" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/utils/MailCodeCache.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/utils/TokenUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle_lxr/target/classes/com/example/utils/TokenUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle_lxr/target/classes/mapper/CharTableMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle_lxr/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle_lxr/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle_lxr/target/springboot-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle_lxr/target/springboot-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oracle_lxr/target/springboot-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/Oracle_lxr/target/springboot-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+    <list default="true" id="106618d9-a318-43e0-a5ee-c450143c6a45" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/controller/OracleBoneController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/controller/OracleBoneController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/controller/PredictController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/controller/PredictController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mapper/CharTableFormerMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/mapper/CharTableFormerMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/service/CharTableFormerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/service/CharTableFormerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/utils/BigModelNew.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/utils/BigModelNew.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/controller/OracleBoneController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/controller/OracleBoneController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/controller/PredictController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/controller/PredictController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/mapper/CharTableFormerMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/mapper/CharTableFormerMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/service/CharTableFormerService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/service/CharTableFormerService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/utils/BigModelNew.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/utils/BigModelNew.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/CharTableMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springboot-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/springboot-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springboot-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/springboot-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CodeStyleSettingsInfer">
-    <option name="done" value="true" />
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Oracle_lxr" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="D:/apache-maven-3.6.3" />
-        <option name="userSettingsFile" value="D:\apache-maven-3.6.3\conf\settings.xml" />
-      </MavenGeneralSettings>
-    </option>
-  </component>
-  <component name="ProjectCodeStyleSettingsMigration">
-    <option name="version" value="1" />
-  </component>
-  <component name="ProjectId" id="35uzNEEKVZu6c5f2QLWgfRAUmTo" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2vPEOLqUOWu8RKYKg2ghxUtuXcc" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RequestMappingsPanelOrder0" value="0" />
-    <property name="RequestMappingsPanelOrder1" value="1" />
-    <property name="RequestMappingsPanelWidth0" value="75" />
-    <property name="RequestMappingsPanelWidth1" value="75" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
-  </component>
-  <component name="RunManager">
-    <configuration name="SpringbootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven.springboot [package].executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.SpringbootApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;update3&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/000/小程序/小程序/小程序前后端代码/a_lat - 副本/Oracle_lxr&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;远程 JVM 调试.未命名.executor&quot;: &quot;Debug&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager" selected="Spring Boot.SpringbootApplication">
+    <configuration name="未命名" type="Remote" nameIsGenerated="true">
+      <module name="springboot" />
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" />
+      <option name="HOST" value="115.120.194.57" />
+      <option name="PORT" value="5050" />
+      <option name="AUTO_RESTART" value="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="5050" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="SpringbootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="springboot" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.SpringbootApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Spring Boot.SpringbootApplication" />
+      <item itemvalue="远程 JVM 调试.未命名" />
+    </list>
   </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="ee1ef8c7-5577-479a-bffc-22d9eff3de5d" name="Default Changelist" comment="" />
-      <created>1763974702442</created>
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="106618d9-a318-43e0-a5ee-c450143c6a45" name="更改" comment="" />
+      <created>1744038277095</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1763974702442</updated>
-      <workItem from="1763974703769" duration="1554000" />
-      <workItem from="1763976356313" duration="658000" />
-      <workItem from="1763977149378" duration="10000" />
-      <workItem from="1763977244769" duration="31000" />
-      <workItem from="1766035632561" duration="1662000" />
-      <workItem from="1766037346463" duration="722000" />
-      <workItem from="1766053774578" duration="505000" />
-      <workItem from="1766054371677" duration="23000" />
-      <workItem from="1766054515924" duration="13000" />
-      <workItem from="1766054831320" duration="87000" />
-      <workItem from="1770010033404" duration="1842000" />
-      <workItem from="1770011911435" duration="111000" />
-      <workItem from="1770012145115" duration="1785000" />
-      <workItem from="1770013962250" duration="973000" />
-      <workItem from="1770015030772" duration="647000" />
-      <workItem from="1770017147580" duration="1219000" />
+      <updated>1744038277095</updated>
+      <workItem from="1744038279732" duration="1389000" />
+      <workItem from="1744286124775" duration="9309000" />
+      <workItem from="1744333417061" duration="4190000" />
+      <workItem from="1748339840180" duration="681000" />
+      <workItem from="1751946126503" duration="660000" />
+      <workItem from="1752160704476" duration="665000" />
+      <workItem from="1752161679524" duration="5391000" />
+      <workItem from="1752249689960" duration="12333000" />
+      <workItem from="1752651132576" duration="4277000" />
+      <workItem from="1753543055261" duration="437000" />
+      <workItem from="1753602597066" duration="3183000" />
+      <workItem from="1753803090633" duration="4505000" />
+      <workItem from="1753846585161" duration="363000" />
+      <workItem from="1753968122829" duration="1928000" />
+      <workItem from="1754614522255" duration="1832000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="634" y="212" key="FileChooserDialogImpl" timestamp="1766054917465">
-      <screen x="0" y="0" width="1707" height="912" />
-    </state>
-    <state x="634" y="212" key="FileChooserDialogImpl/0.0.1707.912@0.0.1707.912" timestamp="1766054917465" />
-    <state width="1663" height="276" key="GridCell.Tab.0.bottom" timestamp="1770014946770">
-      <screen x="0" y="0" width="1707" height="912" />
-    </state>
-    <state width="1663" height="276" key="GridCell.Tab.0.bottom/0.0.1707.912@0.0.1707.912" timestamp="1770014946770" />
-    <state width="1663" height="276" key="GridCell.Tab.0.center" timestamp="1770014946770">
-      <screen x="0" y="0" width="1707" height="912" />
-    </state>
-    <state width="1663" height="276" key="GridCell.Tab.0.center/0.0.1707.912@0.0.1707.912" timestamp="1770014946770" />
-    <state width="1663" height="276" key="GridCell.Tab.0.left" timestamp="1770014946770">
-      <screen x="0" y="0" width="1707" height="912" />
-    </state>
-    <state width="1663" height="276" key="GridCell.Tab.0.left/0.0.1707.912@0.0.1707.912" timestamp="1770014946770" />
-    <state width="1663" height="276" key="GridCell.Tab.0.right" timestamp="1770014946770">
-      <screen x="0" y="0" width="1707" height="912" />
-    </state>
-    <state width="1663" height="276" key="GridCell.Tab.0.right/0.0.1707.912@0.0.1707.912" timestamp="1770014946770" />
-    <state width="1663" height="276" key="GridCell.Tab.1.bottom" timestamp="1770014946771">
-      <screen x="0" y="0" width="1707" height="912" />
-    </state>
-    <state width="1663" height="276" key="GridCell.Tab.1.bottom/0.0.1707.912@0.0.1707.912" timestamp="1770014946771" />
-    <state width="1663" height="276" key="GridCell.Tab.1.center" timestamp="1770014946770">
-      <screen x="0" y="0" width="1707" height="912" />
-    </state>
-    <state width="1663" height="276" key="GridCell.Tab.1.center/0.0.1707.912@0.0.1707.912" timestamp="1770014946770" />
-    <state width="1663" height="276" key="GridCell.Tab.1.left" timestamp="1770014946770">
-      <screen x="0" y="0" width="1707" height="912" />
-    </state>
-    <state width="1663" height="276" key="GridCell.Tab.1.left/0.0.1707.912@0.0.1707.912" timestamp="1770014946770" />
-    <state width="1663" height="276" key="GridCell.Tab.1.right" timestamp="1770014946770">
-      <screen x="0" y="0" width="1707" height="912" />
-    </state>
-    <state width="1663" height="276" key="GridCell.Tab.1.right/0.0.1707.912@0.0.1707.912" timestamp="1770014946770" />
-    <state x="334" y="31" key="SettingsEditor" timestamp="1766054864760">
-      <screen x="0" y="0" width="1707" height="912" />
-    </state>
-    <state x="334" y="31" key="SettingsEditor/0.0.1707.912@0.0.1707.912" timestamp="1766054864760" />
-    <state x="552" y="57" width="603" height="798" key="find.popup" timestamp="1770017635952">
-      <screen x="0" y="0" width="1707" height="912" />
-    </state>
-    <state x="552" y="57" width="603" height="798" key="find.popup/0.0.1707.912@0.0.1707.912" timestamp="1770017635952" />
-    <state x="510" y="209" key="run.anything.popup" timestamp="1770014778199">
-      <screen x="0" y="0" width="1707" height="912" />
-    </state>
-    <state x="510" y="209" key="run.anything.popup/0.0.1707.912@0.0.1707.912" timestamp="1770014778199" />
-    <state x="516" y="193" width="672" height="678" key="search.everywhere.popup" timestamp="1766053874710">
-      <screen x="0" y="0" width="1707" height="912" />
-    </state>
-    <state x="516" y="193" width="672" height="678" key="search.everywhere.popup/0.0.1707.912@0.0.1707.912" timestamp="1766053874710" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
